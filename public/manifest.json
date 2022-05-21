@@ -20,7 +20,7 @@
   "lang": "es-AR",
   "name": "PWA de prueba",
   "orientation": "portrait",
-  "prefer_related_applications": false,
+  "prefer_related_application": false,
   "scope": "/",
   "short_name": "PWA",
   "start_url": "/",
