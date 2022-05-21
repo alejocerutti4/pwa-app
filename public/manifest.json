@@ -1,11 +1,17 @@
 {
   "background_color": "#ffffff",
-  "categories": ["lifestyle", "music"],
-  "description": "esta es una pwa de prueba",
+  "categories": [
+    "lifestyle",
+    "music"
+  ],
+  "description": "Esta es una PWA de prueba para mi gente en YouTube",
   "dir": "ltr",
+  "display_override": [
+    "standalone",
+    "fullscreen"
+  ],
   "display": "standalone",
-  "display_override": ["standalone", "fullscreen"],
-  "icons":[
+  "icons": [
     {
       "src": "logo192.png",
       "sizes": "192x192",
@@ -17,15 +23,12 @@
       "type": "image/png"
     }
   ],
-  "lang": "es-AR",
-  "name": "PWA de prueba",
+  "lang": "es-MX",
+  "name": "PWA Lasfito test",
   "orientation": "portrait",
   "prefer_related_application": false,
   "scope": "/",
-  "short_name": "PWA",
+  "short_name": "PWA Lasfi",
   "start_url": "/",
-  "theme_color": "#ffffff"
-
-
+  "theme_color": "orange"
 }
-
